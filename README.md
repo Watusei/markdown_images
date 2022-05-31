@@ -13,6 +13,7 @@
 ![Checklist6 1](https://user-images.githubusercontent.com/104520146/171165646-a442fd0b-f3b0-421b-a5e9-125eebae431a.PNG)
 ![Checklist7 1](https://user-images.githubusercontent.com/104520146/171165947-b2431226-67ef-44d4-9746-af0fa6263d2c.PNG)
 ![Checklist8 1](https://user-images.githubusercontent.com/104520146/171166363-879a481a-2e3e-4429-b972-b688218743e6.PNG)
+![Checklist8 2](https://user-images.githubusercontent.com/104520146/171166457-6cc07eee-f594-4251-a796-9a886f144322.PNG)
 
 ![gitBranches](https://user-images.githubusercontent.com/104520146/171163472-ad63a7bb-9b42-4b20-b8df-2e894abbf2fd.png)
 ![MainSS](https://user-images.githubusercontent.com/104520146/171163474-34ddb572-7d4e-4285-afd8-b1b83540eea4.png)
