@@ -27,6 +27,11 @@
 ![eqTimeConverter](https://user-images.githubusercontent.com/104520146/171399358-34c27051-d31e-4dca-8fe5-4e5f46fd50c4.PNG)
 ![bvaMain](https://user-images.githubusercontent.com/104520146/171399369-3c994676-740e-4564-884a-786f015a86be.PNG)
 ![bvaTimeConverter](https://user-images.githubusercontent.com/104520146/171399373-d0c8608a-d8bd-490c-9ae7-3500368583a0.PNG)
+![1aTestCase](https://user-images.githubusercontent.com/104520146/171400285-4117ec14-e2ef-4847-a0a2-90ceb46648bd.PNG)
+![1bTestCase](https://user-images.githubusercontent.com/104520146/171400289-73cc6c25-1029-4ad6-8bfe-c78be38052dd.PNG)
+![1cTestCase](https://user-images.githubusercontent.com/104520146/171400291-08c5f0d2-3ed1-4244-840c-2c27582bd02f.PNG)
+![1dTestCase](https://user-images.githubusercontent.com/104520146/171400297-a88e7a84-4610-4eab-bdee-1f1beffd96fe.PNG)
+![2cTestCaseAttempt](https://user-images.githubusercontent.com/104520146/171400299-5fe0e5de-3ff7-45a0-b1a9-9f8be0a29417.PNG)
 
 ![gitBranches](https://user-images.githubusercontent.com/104520146/171163472-ad63a7bb-9b42-4b20-b8df-2e894abbf2fd.png)
 ![MainSS](https://user-images.githubusercontent.com/104520146/171163474-34ddb572-7d4e-4285-afd8-b1b83540eea4.png)
